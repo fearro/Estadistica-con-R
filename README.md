@@ -1,8 +1,22 @@
 # Estadística y Machine Learning con R
 
-Este repositorio contiene apuntes personales sobre estadística, bioestadística, *machine learning* y lenguaje de programación R. Para ver los documentos en formato web (html) visitar [Rpubs](https://rpubs.com/Joaquin_AR).
+Este repositorio contiene apuntes personales sobre estadística, bioestadística, *machine learning* y lenguaje de programación R. Para ver los documentos en formato web (html) visitar [cienciadedatos.net](https://cienciadedatos.net) o [Rpubs](https://rpubs.com/Joaquin_AR).
 
-+ [Bibliografía estadística y programación en R](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/0_0_Bibliograf%C3%ADa_estad%C3%ADstica_y_programaci%C3%B3n_en_R.pdf)
++ [Regresión cuantílica: modelos GAMLSS](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/65_regresion_cuantilica_gamlss.pdf)
+
++ [Introducción a los modelos GAMLSS](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/63_gamlss.pdf)
+
++ [Ajuste de distribuciones con R](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/55_ajuste_distribuciones_con_r.pdf)
+
++ [Regresión cuantílica: Gradient Boosting Quantile Regression](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/56_regresion_cuantilica_gradient_boosting.pdf)
+
++ [Distributional Regression Forest: Random Forest probabilístico](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/54_distributional_regresion_forest.pdf)
+
++ [Regresión cuantílica: Quantile Regression Forest](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/53_regresion_cuantilica_quantile_regresion_forest.pdf)
+
++ [Detección de anomalías con Autoencoders y PCA](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/52_deteccion_anomalias_autoencoder_pca.pdf)
+
++ [Comparación de distribuciones: test Kolmogorov–Smirnov](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/51_comparacion_distribuciones_Kolmogorov–Smirnov.pdf)
 
 + [Optimización con enjambre de partículas (Particle Swarm Optimization PSO)](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/49_Optimizacion_con_particle_swarm.pdf)
 
@@ -45,6 +59,7 @@ Este repositorio contiene apuntes personales sobre estadística, bioestadística
 
 + [Máquinas de Vector Soporte (Support Vector Machines)](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/34_Maquinas_de_Vector_Soporte_Support_Vector_Machines.pdf)
 
++ [Algoritmo Perceptron](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/50_Algoritmo_Perceptron.pdf)
 
 + [Árboles de predicción: bagging, random forest, boosting y C5.0](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/33_Arboles_de_predicci%C3%B3n__tree-based%2C_bagging%2C_random_forest%2C_boosting.pdf)
 
@@ -109,6 +124,8 @@ Este repositorio contiene apuntes personales sobre estadística, bioestadística
 
 
 + [Análisis de normalidad mediante gráficos y contrastes de hipótesis](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/8_An%C3%A1lisis_de__Normalidad_gr%C3%A1ficos_y_contrastes_de_hip%C3%B3tesis.pdf)
+
++ [Bibliografía estadística y programación en R](https://github.com/JoaquinAmatRodrigo/Estadistica-con-R/blob/master/PDF_format/0_0_Bibliograf%C3%ADa_estad%C3%ADstica_y_programaci%C3%B3n_en_R.pdf)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Joaquín Amat Rodrigo</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
